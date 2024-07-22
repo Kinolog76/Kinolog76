@@ -1,6 +1,6 @@
 ## About Me:
 
-Frontend Developer with experience in creating responsive and interactive web applications. Skilled in JavaScript, React, Python, PHP/Laravel (basics), HTML, CSS (SCSS), Git/Github, and server management. Passionate about designing user-friendly interfaces and improving web performance.
+Front-End Developer with a strong background in building responsive and interactive websites and web applications. Experienced in JavaScript, React, Python, PHP/Laravel (basics), HTML, CSS (SCSS), and server management. Enthusiastic about creating user-friendly interfaces and optimizing web performance. Also skilled in writing automation scripts and web scraping with Python.
 
 - Proficient in web scraping and automation scripts using Python.
 - Worked extensively with the SEO part of code to improve search engine rankings.
