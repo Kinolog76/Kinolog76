@@ -14,7 +14,9 @@ Frontend Developer with experience in creating responsive and interactive web ap
 Interested in Front-End development and open to new challenges.
 
 📚 Took many courses on web development on Udemy.
+
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladislavpashora/)
+
 🐙 Follow my projects on [GitHub](https://github.com/Kinolog76)
 
 ---
