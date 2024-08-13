@@ -22,7 +22,7 @@ Interested in Front-End development and open to new challenges.
 ---
 
 ### Languages:
-| JS  | React | TypeScript | Python | PHP |
+| JS  | React | TS | Python | PHP |
 |----------|----------|----------|-----| --- |
 |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="margin-bottom: -10px;" width="50" height="50"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" style="margin-bottom: -10px;" width="50" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style="margin-bottom: -10px; margin-right: -10px;" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" style="margin-top: 15px; margin-bottom: -10px;" width="50" height="50"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2048px-PHP-logo.svg.png" style="margin-top: 5px; margin-bottom: -10px;" width="50" height="30"/>|
 
