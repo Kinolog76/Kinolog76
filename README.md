@@ -1,30 +1,28 @@
 ## About Me:
 
-Front-End Developer with a strong background in building responsive and interactive websites and web applications. Experienced in JavaScript, React, TypeScript, Python, PHP/Laravel (basics), HTML, CSS (SCSS), and server management. Enthusiastic about creating user-friendly interfaces and optimizing web performance. Also skilled in writing automation scripts and web scraping with Python.
+Front-End Developer with solid experience in building responsive and interactive websites and web applications. I work with JavaScript, React, TypeScript, Python, HTML, CSS (SCSS). I'm passionate about creating user-friendly interfaces and optimizing web performance, with a strong focus on UI/UX design principles.
 
-- Proficient in web scraping and automation scripts using Python.
-- Worked extensively with the SEO part of code to improve search engine rankings.
-- Utilized the static site generator HUGO for creating fast and optimized websites.
-- Implemented RESTful APIs with JavaScript, React, and Python.
-- Developed multiple SPA using React.
-- Experienced in responsive design and collaborating with designers using Figma.
-- Continuously learning new technologies and improving existing skills.
-- Strong problem-solving skills and ability to work in a team.
+- **Automation & Web Scraping:** Developed Python scripts to automate tasks and collect data, saving about 12 hours of manual work each week.
+- **Performance Optimization:** Boosted website performance by 20% through code improvements and leveraging modern web tools.
+- **UI/UX Design:** Focused on delivering a seamless user experience, ensuring that designs are both visually appealing and easy to use.
+- **Team Collaboration:** Worked on team projects, contributing reusable React components and enhancing app performance using Redux and React Query.
+- **Responsive Design:** Ensured that websites are fully responsive and provide a consistent user experience across all devices.
+- **Continuous Learning:** Always expanding my skill set and staying updated with the latest web development trends and technologies.
 
 Interested in Front-End development and open to new challenges.
 
 📚 Took many courses on web development on Udemy.
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladislavpashora/)
+🌐 Connect with me on <a href="https://www.linkedin.com/in/vladislavpashora/" target="_blank">LinkedIn</a>
 
 🐙 Follow my projects on [GitHub](https://github.com/Kinolog76)
 
 ---
 
 ### Languages:
-| JS  | React | TS | Python | PHP |
-|----------|----------|----------|-----| --- |
-|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="margin-bottom: -10px;" width="50" height="50"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" style="margin-bottom: -10px;" width="50" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style="margin-bottom: -10px; margin-right: -10px;" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" style="margin-top: 15px; margin-bottom: -10px;" width="50" height="50"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2048px-PHP-logo.svg.png" style="margin-top: 5px; margin-bottom: -10px;" width="50" height="30"/>|
+| JS  | React | TS | Python |
+|----------|----------|----------|-----|
+|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" style="margin-bottom: -10px;" width="50" height="50"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" style="margin-bottom: -10px;" width="50" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style="margin-bottom: -10px; margin-right: -10px;" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" style="margin-top: 15px; margin-bottom: -10px;" width="50" height="50"/> |
 
 
 #### Libraries and tools:
