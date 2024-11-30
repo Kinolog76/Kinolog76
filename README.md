@@ -1,13 +1,12 @@
-## About Me:
+## Front-End Developer:
 
-Front-End Developer with solid experience in building responsive and interactive websites and web applications. I work with JavaScript, React, Next.js, TypeScript, Python, HTML, CSS (SCSS). I'm passionate about creating user-friendly interfaces and optimizing web performance, with a strong focus on UI/UX design principles.
+Experienced in building responsive, interactive, and high-performance websites and web applications. Skilled in JavaScript, React, Next.js, TypeScript, Python, HTML, and CSS (SCSS). Passionate about crafting user-friendly interfaces and optimizing web performance while adhering to UI/UX best practices.
 
-- **Automation & Web Scraping:** Developed Python scripts to automate tasks and collect data, saving about 12 hours of manual work each week.
-- **Performance Optimization:** Boosted website performance by 20% through code improvements and leveraging modern web tools.
-- **UI/UX Design:** Focused on delivering a seamless user experience, ensuring that designs are both visually appealing and easy to use.
-- **Team Collaboration:** Worked on team projects, contributing reusable React components and enhancing app performance using Redux and React Query.
-- **Responsive Design:** Ensured that websites are fully responsive and provide a consistent user experience across all devices.
-- **Continuous Learning:** Always expanding my skill set and staying updated with the latest web development trends and technologies.
+- **Automation & Web Scraping:** Developed Python scripts to automate repetitive tasks, reducing manual work by ~12 hours per week.
+- **Performance Optimization:** Improved website performance by 20% through code refactoring and leveraging modern tools like lazy loading and code splitting.
+- **UI/UX Design:** Delivered seamless user experiences by creating intuitive, visually appealing, and accessible designs.
+- **Responsive Design:** Ensured consistency across devices with pixel-perfect responsive layouts and cross-browser compatibility.
+- **Continuous Learning:** Regularly update my knowledge to stay at the forefront of web development trends and technologies.
 
 Interested in Front-End development and open to new challenges.
 
