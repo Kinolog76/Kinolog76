@@ -12,7 +12,7 @@ Interested in Front-End development and open to new challenges.
 
 📚 Took many courses on web development on Udemy.
 
-🌐 Connect with me on <a href="https://www.linkedin.com/in/vladislavpashora/" target="_blank">LinkedIn</a>
+🌐 Connect with me on <a href="https://www.linkedin.com/in/vladyslav-pashora/" target="_blank">LinkedIn</a>
 
 🐙 Follow my projects on [GitHub](https://github.com/Kinolog76)
 
