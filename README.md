@@ -117,7 +117,7 @@ I specialize in **React**, **TypeScript**, and **Next.js**, with a strong focus 
 
 ## 📈 Professional Experience
 
-- **Front-End Developer** — AdversterX  
+- **Front-End Developer** — NDA  
   `Oct 2024 — Present`
 
 - **Front-End Engineer Intern** — EPAM Systems  
@@ -126,6 +126,8 @@ I specialize in **React**, **TypeScript**, and **Next.js**, with a strong focus 
 - **Front-End Developer** — Ocean Digital  
   `Sep 2023 — Aug 2024`
 
+- **HTML Developer** — ZUWEB  
+  `Jul 2023 — Sep 2024`
 ---
 
 ## 🎓 Education
