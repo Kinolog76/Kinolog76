@@ -1,115 +1,151 @@
-# Hi there, I'm Vladyslav Pashora 👋
+# Hi, I'm Vladyslav Pashora 👋
 
-## Frontend Developer
+## Front-End Developer | React • TypeScript • Next.js
 
-Frontend Developer specializing in **React**, **TypeScript**, and **Next.js**. Focused on building high-performance web applications with measurable business impact. Experienced working in product companies with cross-functional teams in Agile environments.
+I'm a Front-End Developer with 2.5+ years of commercial experience building modern web applications, internal tools, analytics dashboards, and SEO-focused websites.
 
-### 🚀 What I Do
+I specialize in **React**, **TypeScript**, and **Next.js**, with a strong focus on clean architecture, reusable UI components, API integration, performance optimization, and maintainable code.
 
-- Build **high-conversion landing pages** and **complex SPAs** from scratch using modern React ecosystem
-- Develop **internal dashboards** and **admin panels** for business operations and data management
-- Create **reusable component libraries** and technical documentation
-- Implement **authentication flows**, **API integrations**, and **real-time features**
-- Optimize performance achieving **95+ Lighthouse scores** and excellent SEO results
+---
 
-### 💼 Key Achievements
+## 🚀 What I Do
 
-- **Improved data processing efficiency by 40%** through virtualized rendering techniques
-- **Reduced component development time by 30%** by building maintainable component systems
-- **Built Python automation tools** with Scrapy, saving 12+ hours of manual work weekly
-- Successfully completed **EPAM's internship program** building a full-stack MERN application
+- Build scalable **SPAs**, landing pages, dashboards, and admin panels
+- Develop reusable and maintainable UI components with React and TypeScript
+- Integrate REST APIs, authentication flows, protected routes, and third-party services
+- Work with forms, validation, state management, and client-side data handling
+- Improve performance, accessibility, responsiveness, and SEO
+- Write technical documentation and help improve development workflows
 
-### 🛠️ Tech Stack
+---
+
+## 💼 Experience Highlights
+
+- Built production-ready SPAs, landing pages, and analytics dashboards using **React**, **TypeScript**, and **Next.js**
+- Implemented API-driven interfaces with structured data flow, loading states, error handling, and optimized rendering
+- Created reusable UI components that improved development speed and reduced duplicated code
+- Developed secure authentication flows using **JWT**
+- Improved feature delivery speed by around **20%** through reusable components and better workflows
+- Automated data collection with **Python** and **Scrapy**, saving **12+ hours of manual work per week**
+- Completed EPAM's Front-End internship program and built a full-stack MERN CRUD application
+
+---
+
+## 🛠️ Tech Stack
 
 <table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-<br>Sass
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br>Redux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-<br>Jest
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
 </table>
 
-### 📈 Professional Experience
+---
 
-- **Frontend Developer** @ NDA Company (Oct 2024 - Present)
-- **Frontend Engineer** @ EPAM Systems (Aug 2024 - Oct 2024)
-- **Frontend Developer** @ Ocean Digital (Sep 2023 - Aug 2024)
-- **HTML Developer** @ ZUWEB (Jul 2023 - Sep 2023)
+## 🧰 Tools & Technologies
 
-### 🎓 Education & Certifications
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, SCSS, Tailwind CSS  
+**State & Data:** Redux, React Query, Axios, REST API, JWT  
+**Forms & Validation:** React Hook Form, Zod  
+**Testing:** Jest, React Testing Library  
+**Backend Basics:** Node.js, Express, MongoDB  
+**Other:** Git, GitHub, GitLab, Figma, Pug, Hugo, Python, Scrapy
 
-- **EPAM Front-End** Certification
-- **React - The Complete Guide 2024** (Udemy)
-- **Master's in Automobile Transport** - Vinnytsia National Technical University
+---
 
-### 🌱 Currently
+## 📈 Professional Experience
 
-- Deepening expertise in React ecosystem and performance optimization
-- Exploring advanced TypeScript patterns
-- Building scalable, maintainable component architectures
+- **Front-End Developer** — AdversterX  
+  `Oct 2024 — Present`
 
-### 📫 Let's Connect
+- **Front-End Engineer Intern** — EPAM Systems  
+  `Aug 2024 — Oct 2024`
+
+- **Front-End Developer** — Ocean Digital  
+  `Sep 2023 — Aug 2024`
+
+---
+
+## 🎓 Education
+
+**Vinnytsia National Technical University**  
+Master's degree, Automobile Transport
+
+---
+
+## 🌱 Currently Improving
+
+- Advanced React and Next.js patterns
+- TypeScript architecture and type safety
+- Performance optimization and Core Web Vitals
+- Scalable component architecture
+- Testing and frontend reliability
+
+---
+
+## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladyslav-pashora/)
 - 📧 [vladyslav.pashora.work@gmail.com](mailto:vladyslav.pashora.work@gmail.com)
@@ -118,4 +154,4 @@ Frontend Developer specializing in **React**, **TypeScript**, and **Next.js**. F
 
 ---
 
-⭐️ Open to remote Frontend Developer positions (React + TypeScript)
+⭐ Open to remote Front-End Developer positions focused on React, TypeScript, and Next.js.
